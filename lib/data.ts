@@ -40,6 +40,14 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Software Engineering Intern.",
+    location: "Predli.",
+    description:
+      "Developed and integrated large-scale AI/ML models: Worked with various large language models (LLMs) and implemented advanced algorithms to improve data processing and natural language understanding.",
+    icon: React.createElement(FaReact),
+    date: "June 2024 - Present",
+  },
+  {
     title: "Full Stack web developer Intern.",
     location: "Agumentik Solutions Pvt Ltd.",
     description:
